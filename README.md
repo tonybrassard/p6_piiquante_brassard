@@ -9,7 +9,7 @@ Le but est de créer le back-end (API) de l'application, le front-end étant dé
     - A l'intérieur de ce fichier, creer ces 2 variables d'environnement "secrètes":
         - MONGO_URI = 'lien_vers_la_base_de_données_MongoDB'
         - JWT = 'clé_secrète_pour_crypter_les_tokens'
-    - Creer un dossier "images" à la racine di dossier 'back'
+    - Creer un dossier "images" à la racine du dossier 'back'
 2. Configuration du **front** :
     - Lancer le front de l'application :
         - Dans un (premier) terminal, accéder au dossier 'front' (--> 'cd front') 
