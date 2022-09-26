@@ -5,7 +5,7 @@ Le but est de créer le back-end (API) de l'application, le front-end étant dé
 ## Pour tester l'application :
 1. Configuration des **dossiers (et fichiers)** :
     - Cloner l'e' [Application Web 'Piiquante'](https://github.com/tonybrassard/p6_piiquante_brassard.git)
-    - Renommer fichier .env.example de configuration en ".env" à la racine du dossier 'back-end'. 
+    - Renommer le fichier .env.example de configuration en ".env" à la racine du dossier 'back-end'. 
     - A l'intérieur de ce dossier, modifier ces 2 variables d'environnement "secrètes":
         - MONGO_URI = 'lien_vers_la_base_de_données_MongoDB'
         - JWT = 'clé_secrète_pour_crypter_les_tokens'
